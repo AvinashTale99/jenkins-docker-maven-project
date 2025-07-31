@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "AvinashTale99/jenkins-docker-maven"
+        IMAGE_NAME = "avinashtale99/jenkins-docker-maven"
     }
 
     stages {
